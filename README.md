@@ -45,7 +45,8 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 ## AI Images
 
 - [Leonardo AI](https://leonardo.ai) - Free daily image generation. Free plan (150 tokens/day), Apprentice $12/mo. [Video review](https://www.youtube.com/watch?v=MFpXlsfuj2M)
-- [Midjourney](https://www.midjourney.com) - Best-looking artistic images. No free plan, Basic $10/mo. [Video review](https://www.youtube.com/watch?v=MFpXlsfuj2M)
+- [Higgsfield](https://higgsfield.ai) - AI images and videos in one plan, with consistent characters. Free trial generations only, Starter $19/mo. [Video review](https://www.youtube.com/watch?v=NbaAmD7K_z8)
+- [Midjourney](https://www.midjourney.com) - Best-looking artistic images. No free plan, Basic $10/mo. [Video review](https://www.youtube.com/watch?v=NbaAmD7K_z8)
 
 ## Automation
 
@@ -66,6 +67,7 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 - [HeyGen vs Synthesia](https://www.youtube.com/watch?v=vJKcw4e7uEI)
 - [Base44 vs Replit vs Cursor](https://www.youtube.com/watch?v=mmncNhm05QI)
 - [Suno vs Udio and other AI music generators](https://www.youtube.com/watch?v=r4eoWAuMm3s)
+- [Higgsfield vs Midjourney](https://www.youtube.com/watch?v=NbaAmD7K_z8)
 - [Leonardo AI vs Midjourney](https://www.youtube.com/watch?v=MFpXlsfuj2M)
 - [Every free AI video generator tested](https://www.youtube.com/watch?v=5DSxhJ7vghA)
 
