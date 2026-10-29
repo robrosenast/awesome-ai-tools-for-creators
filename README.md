@@ -19,10 +19,11 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 
 ## AI Chatbots
 
-- [ChatGPT](https://chatgpt.com) - Everyday writing, research and images. Free plan, paid from $8/mo. [Video review](https://www.youtube.com/watch?v=st6MEipTLxg)
+- [ChatGPT](https://chatgpt.com) - Everyday writing, research and images. Free plan, paid from $8/mo. [Video review](https://www.youtube.com/watch?v=6yZNUnrpnO0)
 - [Claude](https://claude.ai) - Long writing, documents and coding. Free plan, Pro $20/mo. [Video review](https://www.youtube.com/watch?v=0HX5E3lGF1o)
 - [Gemini](https://gemini.google.com) - Best if you live in Gmail, Docs and Drive. Free plan, Google AI Pro $19.99/mo. [Video review](https://www.youtube.com/watch?v=piKbO5Ne1FQ)
 - [Grok](https://grok.com) - Real-time news and posts from X. Free plan, paid from $10/mo. [Video review](https://www.youtube.com/watch?v=ASb16MAls4Q)
+- [DeepSeek](https://chat.deepseek.com) - Free AI chat for everyday questions, coding help and studying. Free web and app, no subscription (API is pay-as-you-go). [Video review](https://www.youtube.com/watch?v=6yZNUnrpnO0)
 
 ## AI Avatar Video
 
@@ -68,6 +69,7 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 - [Base44 vs Replit vs Cursor](https://www.youtube.com/watch?v=mmncNhm05QI)
 - [Suno vs Udio and other AI music generators](https://www.youtube.com/watch?v=r4eoWAuMm3s)
 - [Higgsfield vs Midjourney](https://www.youtube.com/watch?v=NbaAmD7K_z8)
+- [DeepSeek vs ChatGPT](https://www.youtube.com/watch?v=6yZNUnrpnO0)
 - [Leonardo AI vs Midjourney](https://www.youtube.com/watch?v=MFpXlsfuj2M)
 - [Every free AI video generator tested](https://www.youtube.com/watch?v=5DSxhJ7vghA)
 
