@@ -19,9 +19,9 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 
 ## AI Chatbots
 
-- [ChatGPT](https://chatgpt.com) - Everyday writing, research and images. Free plan, paid from $8/mo. [Video review](https://www.youtube.com/watch?v=6yZNUnrpnO0)
+- [ChatGPT](https://chatgpt.com) - Everyday writing, research and images. Free plan, paid from $8/mo. [Video review](https://www.youtube.com/watch?v=hOJK6nROvZM)
 - [Claude](https://claude.ai) - Long writing, documents and coding. Free plan, Pro $20/mo. [Video review](https://www.youtube.com/watch?v=0HX5E3lGF1o)
-- [Gemini](https://gemini.google.com) - Best if you live in Gmail, Docs and Drive. Free plan, Google AI Pro $19.99/mo. [Video review](https://www.youtube.com/watch?v=piKbO5Ne1FQ)
+- [Gemini](https://gemini.google.com) - Best if you live in Gmail, Docs and Drive. Free plan, Google AI Pro $19.99/mo. [Video review](https://www.youtube.com/watch?v=hOJK6nROvZM)
 - [Grok](https://grok.com) - Real-time news and posts from X. Free plan, paid from $10/mo. [Video review](https://www.youtube.com/watch?v=ASb16MAls4Q)
 - [DeepSeek](https://chat.deepseek.com) - Free AI chat for everyday questions, coding help and studying. Free web and app, no subscription (API is pay-as-you-go). [Video review](https://www.youtube.com/watch?v=6yZNUnrpnO0)
 
