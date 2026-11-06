@@ -75,6 +75,8 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 
 ## More
 
+- [DisconfirmAI](https://disconfirmai.com/en) - AI investment research and reading tool that helps you look for evidence that could prove an idea wrong before you build conviction.
+
 - Full comparison table with free plans and prices: [Best AI Tools 2026 (Google Sheet)](https://docs.google.com/spreadsheets/d/e/2PACX-1vTTWYxeBDIJ6hQtUytYHME77ApxweZJ_N2yF_3K29CB3ZEUpq_ePg4ZxlGWts39YtL70DVTB5oZqeFG/pubhtml)
 - Guides and reviews: [a1republic.com](https://a1republic.com)
 - Want a tool added? Open an issue or a pull request.
