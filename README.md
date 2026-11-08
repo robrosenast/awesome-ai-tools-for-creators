@@ -13,6 +13,7 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 - [AI App Builders and Coding](#ai-app-builders-and-coding)
 - [AI Music and Voice](#ai-music-and-voice)
 - [AI Images](#ai-images)
+- [AI Sourcing](#ai-sourcing)
 - [Automation](#automation)
 - [Video Clipping](#video-clipping)
 - [Comparisons](#comparisons)
@@ -29,6 +30,7 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 
 - [HeyGen](https://www.heygen.com) - Talking-avatar videos and video translation. Free plan (3 videos/mo), Creator $29/mo. [Video review](https://www.youtube.com/watch?v=vJKcw4e7uEI)
 - [Synthesia](https://www.synthesia.io?via=a1) - Training and explainer videos with AI presenters. Free plan, Starter $19/mo. [Video review](https://www.youtube.com/watch?v=vJKcw4e7uEI)
+- [Intellemo](https://intellemo.ai/?atp=welcome) - Cinematic AI product video ads from your photos, fix one shot without redoing the video. Free storyboard, pay per video second ($48 for 120 seconds on Story). [Video review](https://www.youtube.com/watch?v=Efpb7o2H87M)
 
 ## AI App Builders and Coding
 
@@ -48,6 +50,10 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 - [Leonardo AI](https://leonardo.ai) - Free daily image generation. Free plan (150 tokens/day), Apprentice $12/mo. [Video review](https://www.youtube.com/watch?v=MFpXlsfuj2M)
 - [Higgsfield](https://higgsfield.ai) - AI images and videos in one plan, with consistent characters. Free trial generations only, Starter $19/mo. [Video review](https://www.youtube.com/watch?v=NbaAmD7K_z8)
 - [Midjourney](https://www.midjourney.com) - Best-looking artistic images. No free plan, Basic $10/mo. [Video review](https://www.youtube.com/watch?v=NbaAmD7K_z8)
+
+## AI Sourcing
+
+- [Alibaba.com AI Mode](https://aimode.alibaba.com) - Find and compare verified suppliers from one product photo. Free account, paid plans not listed. [Video review](https://www.youtube.com/watch?v=bB_aHiAV7ns)
 
 ## Automation
 
