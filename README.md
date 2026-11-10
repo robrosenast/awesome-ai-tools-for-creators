@@ -34,9 +34,9 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 
 ## AI App Builders and Coding
 
-- [Base44](https://base44.com) - Build your first app with no code. Free plan, Starter $20/mo. [Video review](https://www.youtube.com/watch?v=7nxH6iR9Asw)
+- [Base44](https://base44.com) - Build your first app with no code. Free plan, Starter $20/mo. [Video review](https://www.youtube.com/watch?v=m9S80VmfpTg)
 - [Replit](https://replit.com) - Build and host apps with an AI agent. Free plan, Core $25/mo. [Video review](https://www.youtube.com/watch?v=WyWkeXMe9I4)
-- [Lovable](https://lovable.dev) - Websites and web apps from a prompt. Free plan, Pro $25/mo. [Video review](https://www.youtube.com/watch?v=vIHqk7kk54g)
+- [Lovable](https://lovable.dev) - Websites and web apps from a prompt. Free plan, Pro $25/mo. [Video review](https://www.youtube.com/watch?v=m9S80VmfpTg)
 - [Cursor](https://cursor.com) - AI code editor for people who already code. Free plan, Pro $20/mo. [Video review](https://www.youtube.com/watch?v=mmncNhm05QI)
 
 ## AI Music and Voice
@@ -74,6 +74,7 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 - [Meta Muse vs Grok](https://www.youtube.com/watch?v=apCZC4TUb-o)
 - [HeyGen vs Synthesia](https://www.youtube.com/watch?v=vJKcw4e7uEI)
 - [Base44 vs Replit vs Cursor](https://www.youtube.com/watch?v=mmncNhm05QI)
+- [Lovable vs Base44](https://www.youtube.com/watch?v=m9S80VmfpTg)
 - [Suno vs Udio and other AI music generators](https://www.youtube.com/watch?v=r4eoWAuMm3s)
 - [Higgsfield vs Midjourney](https://www.youtube.com/watch?v=NbaAmD7K_z8)
 - [DeepSeek vs ChatGPT](https://www.youtube.com/watch?v=6yZNUnrpnO0)
