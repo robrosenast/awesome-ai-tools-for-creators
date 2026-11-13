@@ -43,7 +43,7 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 
 - [Suno](https://suno.com) - Full songs with vocals. Free plan (no commercial use), Pro $10/mo. [Video review](https://www.youtube.com/watch?v=mgAe2KyiNAU)
 - [Udio](https://www.udio.com) - High-quality songs. Free plan, commercial use on Pro $30/mo. [Video review](https://www.youtube.com/watch?v=XIHpy7pgy_U)
-- [ElevenLabs](https://try.elevenlabs.io/37v43h70lh4r) - Voiceovers, voice cloning and AI songs. Free plan (no commercial use), Starter $6/mo. [Video review](https://www.youtube.com/watch?v=MTePv6--afQ)
+- [ElevenLabs](https://try.elevenlabs.io/37v43h70lh4r) - Voiceovers, voice cloning and AI songs. Free plan (no commercial use), Starter $6/mo. [Video review](https://www.youtube.com/watch?v=UVA8pfvOJ2E)
 
 ## AI Images
 
