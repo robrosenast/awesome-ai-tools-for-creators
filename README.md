@@ -51,6 +51,7 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 - [Higgsfield](https://higgsfield.ai) - AI images and videos in one plan, with consistent characters. Free trial generations only, Starter $19/mo. [Video review](https://www.youtube.com/watch?v=NbaAmD7K_z8)
 - [Midjourney](https://www.midjourney.com) - Best-looking artistic images. No free plan, Basic $10/mo. [Video review](https://www.youtube.com/watch?v=NbaAmD7K_z8)
 - [OpenArt](https://openart.ai) - 100+ AI image and video models in one place, with consistent characters. Free plan (no commercial use), paid from $14/mo, commercial use from Plus $34/mo. [Video review](https://www.youtube.com/watch?v=WRpKZYF3JBc)
+- [Ideogram](https://ideogram.ai/studios/print-on-demand?productId=ideogram.ai&ucc=AuN4CrD2w85) - AI images with clean text, plus POD Studio for print-on-demand t-shirt designs, vectors and mockups. Free plan (weekly credits), paid from $15/mo. [Video review](https://www.youtube.com/watch?v=ubzEYyTG_-g)
 
 ## AI Sourcing
 
