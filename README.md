@@ -52,6 +52,7 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 - [Midjourney](https://www.midjourney.com) - Best-looking artistic images. No free plan, Basic $10/mo. [Video review](https://www.youtube.com/watch?v=NbaAmD7K_z8)
 - [OpenArt](https://openart.ai) - 100+ AI image and video models in one place, with consistent characters. Free plan (no commercial use), paid from $14/mo, commercial use from Plus $34/mo. [Video review](https://www.youtube.com/watch?v=WRpKZYF3JBc)
 - [Ideogram](https://ideogram.ai/studios/print-on-demand?productId=ideogram.ai&ucc=AuN4CrD2w85) - AI images with clean text, plus POD Studio for print-on-demand t-shirt designs, vectors and mockups. Free plan (weekly credits), paid from $15/mo. [Video review](https://www.youtube.com/watch?v=ubzEYyTG_-g)
+- [Photoroom](https://www.photoroom.com) - AI product photos and quick video ads from one product photo or product page, with a Shopify connection. Free trial, paid from $7.50/mo (Pro, billed yearly), video ads need the Max plan. [Video review](https://www.youtube.com/watch?v=aU4jFLa3S0g)
 
 ## AI Sourcing
 
