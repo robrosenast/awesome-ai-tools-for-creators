@@ -16,6 +16,7 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 - [AI Sourcing](#ai-sourcing)
 - [Automation](#automation)
 - [Video Clipping](#video-clipping)
+- [Newsletters](#newsletters)
 - [Comparisons](#comparisons)
 
 ## AI Chatbots
@@ -66,6 +67,10 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 ## Video Clipping
 
 - [OpusClip](https://opus.pro/?via=b97423) - Turn long videos into Shorts and Reels. Free plan (60 min/mo), Starter $15/mo. [Video review](https://www.youtube.com/watch?v=3rLdtnru25U)
+
+## Newsletters
+
+- [beehiiv](https://www.beehiiv.com) - Run a newsletter with Claude AI through the beehiiv MCP: drafts, welcome emails and stats. Free plan (up to 2,500 subscribers, MCP read-only), Lite from $49/mo billed yearly. [Video review](https://www.youtube.com/watch?v=mHG-eiSH-8w)
 
 ## Comparisons
 
