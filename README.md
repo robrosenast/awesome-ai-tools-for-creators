@@ -63,6 +63,7 @@ New reviews go up on the [A1 Republic YouTube channel](https://www.youtube.com/@
 
 - [n8n](https://n8n.io) - Advanced automations and AI agents. Free if self-hosted, cloud from about $24/mo. [Video review](https://www.youtube.com/watch?v=UDHsFyki2MA)
 - [OttoKit](https://ottokit.com/?aff=5778cef7) - Simple, cheap Zapier alternative. Free plan (250 tasks/mo), Pro $9/mo billed yearly. [Video review](https://www.youtube.com/watch?v=LNO-0uqSYio)
+- [LLMFly](https://app.llmfly.ai/register?aff=A1REPUBLIC) - One API key for GPT, Claude, Gemini and Grok, often cheaper than official prices. Free sign-up credits, then pay-as-you-go credits (no monthly plan). [Video review](https://youtu.be/qH3x7rEOI5E)
 
 ## Video Clipping
 
